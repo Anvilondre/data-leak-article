@@ -3,3 +3,4 @@
 **/catboost_info
 **/__pycache__
 **/.DS_store
+venv/
