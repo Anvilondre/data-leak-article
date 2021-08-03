@@ -13,5 +13,9 @@ Here's a list of commands you may use to set up a conda environment:
 ```
 conda create --prefix ./venv python=3.9
 conda activate ./venv
-conda install --file requirements.txt
+pip install -r requirements.txt
+```
+To launch Jupyter simply use
+```
+jupyter notebook
 ```
